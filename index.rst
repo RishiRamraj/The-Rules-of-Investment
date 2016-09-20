@@ -3,7 +3,7 @@
 Appendix
 --------
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
+
+   style

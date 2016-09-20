@@ -11,4 +11,4 @@ The rules should follow the following guidelines:
 #. Be order independent.
 #. Use the second person.
 
-There should be 285 rules in total.
+There should be 285 rules in total. They should not be redundant.

@@ -134,7 +134,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'The Rules of Investment v0.1.0'
+html_title = 'The Rules of Investment'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -154,7 +154,7 @@ html_theme = 'alabaster'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-#html_static_path = ['_static']
+html_static_path = []
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -179,13 +179,11 @@ html_theme = 'alabaster'
 html_sidebars = {
     'index': [
         'globaltoc.html',
-        'sourcelink.html',
         'searchbox.html'
     ],
     '**': [
         'globaltoc.html',
         'relations.html',
-        'sourcelink.html',
         'searchbox.html'
     ]
 }
@@ -273,7 +271,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TheRulesofInvestment.tex', 'The Rules of Investment Documentation',
+    (master_doc, 'TheRulesofInvestment.tex', 'The Rules of Investment',
      'Rishi Ramraj', 'manual'),
 ]
 
@@ -315,7 +313,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'therulesofinvestment', 'The Rules of Investment Documentation',
+    (master_doc, 'therulesofinvestment', 'The Rules of Investment',
      [author], 1)
 ]
 
@@ -329,10 +327,19 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
+description = (
+    'To ensure against substantial error and develop comfortable policies for '
+    'the investor.'
+)
 texinfo_documents = [
-    (master_doc, 'TheRulesofInvestment', 'The Rules of Investment Documentation',
-     author, 'TheRulesofInvestment', 'One line description of project.',
-     'Miscellaneous'),
+    (
+        master_doc,
+        'TheRulesofInvestment',
+        'The Rules of Investment',
+        author,
+        description,
+        'Miscellaneous'
+    ),
 ]
 
 # Documents to append as an appendix to all manuals.
@@ -350,7 +357,6 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
-
 
 # -- Options for Epub output ----------------------------------------------
 

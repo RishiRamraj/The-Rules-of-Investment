@@ -11,15 +11,16 @@ In General
 #. The principles of sound investment do not change.
 #. Never spend more for an investment than you have to.
 #. All things excellent are as difficult as they are rare.
+#. Achieving satisfactory results it is easy.
+#. Achieving spectacular results is hard.
 
 On Markets
 ----------
 
-#. Buy low and sell high.
-#. You have a natural tendency to buy high and sell low.
+#. You cannot control the market.
+#. You can only control yourself.
 #. Sell to optimists, buy from pessimists.
-#. You cannot control the market. You can only control yourself.
-#. The predictable future is already priced in.
+#. Predictions are already priced in.
 #. Indices ignore companies that go bankrupt.
 #. Insiders often possess only the illusion of knowledge.
 #. Well-defined and protracted market situations may return.
@@ -48,7 +49,6 @@ On Markets
 #. Trees don't grow to the sky.
 #. Regulations cannot prevent investors from overdosing on greed.
 #. Most losses come from low-quality issues bought during good conditions.
-
 
 
 #. There are many opportunities in a crowd of fools.
@@ -86,7 +86,6 @@ On Stocks
 #. You can still lose money on a good stock.
 #. Better prospects often implies less realistic prices.
 #. You will find suitable issues by forgoing brilliant prospects.
-#. It is virtually impossible to make predictions about stock prices.
 #. A sound investments is not a stock that is likely raise next month.
 #. Ideal stock analysis compares value to current price.
 #. Few people buying new issues read the prospectus.
@@ -152,6 +151,8 @@ On Stocks
 On Management
 -------------
 
+#. A good business generates more cash than it consumes.
+#. Good management does not win against bad business.
 #. Managerial competence is not reliably measurable.
 #. Management should be considered when it has changed.
 #. A company cannot manage more than three acquisitions per year.
@@ -159,11 +160,9 @@ On Management
 #. Operating loss with financing gain is bad business.
 #. Smooth and steady growth is a sign of health.
 #. Spending nothing on R&D is as bad as spending too much.
-#. An executive should say what they will do, then do what they say.
+#. Executives should say what they will do, and do what they say.
 #. Executives should manage, not promote stock.
-#. Avoid managers that talk more about stock price than business.
 #. Avoid companies with opaque books.
-#. A good business generates more cash than it consumes.
 #. Good EPS growth is 6% to 7% over the past 10 years.
 #. Long term debt should be under 50% of total capital.
 #. Earnings should cover fixed charges.
@@ -171,39 +170,37 @@ On Management
 #. Aggressive revenue recognition is a sign of trouble.
 #. Accountants can transform expenses into assets.
 #. Good companies communicate problems candidly.
-#. Run away from companies that report good prospects on bad business.
+#. Avoid companies that report good prospects on bad business.
 #. Prolonged turnover eventually devolves into turmoil.
-#. Good management does not win against bad business.
-#. The more money a company makes, the more likely it is to face competition.
+#. High profits attract competition.
+#. Increased sales magnify losses on unprofitable products.
+
+
+#. Avoid managers that talk more about stock price than business.
 #. Serial acquires often leave financial death in their wake.
-#. Increasing sales while losing money makes you lose money faster.
 
 On Bonds
 --------
 
+#. The 100% maturity value of bonds moderate their prices.
 #. Bonds fluctuate less than stock prices.
-#. If you are in a high tax bracket, prefer tax free bonds.
-#. Tax-exempt bonds should be bought by investors who pay income tax.
 #. Only own taxable bonds in a tax sheltered account.
 #. If interest rates rise, bond prices fall.
 #. If interest rates fall, bond prices rise.
 #. Avoid foreign-government bond issues.
 #. Second-grade bonds suffer severely in bad markets.
-#. A large portion of second-grade bonds recover in favorable conditions.
+#. Second-grade bonds recover in favorable conditions.
 #. Bonds may sell at large discounts from their claim.
-#. After bankruptcy, bondholders often receive stock in the new firm.
-#. High-grade, short maturity bonds are insulated from price changes.
-#. A long term bond can vary in response to interest rates.
+#. After bankruptcy, bondholders often receive stock.
+#. High-grade and short maturity insulate bonds from price changes.
+#. Long term bonds vary with interest rates.
 #. Low yields for bonds correspond to high prices.
 #. High yields for bonds correspond to low prices.
-#. It is completely impossible to make predictions about bond prices.
-#. The 100% maturity value of bonds moderate their prices.
-#. Convertible bonds vary with stock price, credit rating and interest rates.
 #. If interest is not covered, corporate bonds devalue.
 #. Corporate bond value depends on size, stock/equity and asset value.
-#. Typical investors will be best off buying low cost bond funds.
+#. Convertible bonds vary with stock price, credit rating and interest rates.
+#. Typical investors will be best off with low cost bond funds.
 #. Never convert a convertible bond.
-#. Default rates jump in a recession.
 
 On Portfolios
 -------------
@@ -220,8 +217,8 @@ On Portfolios
 #. The point of investing is to earn enough money to meet your needs.
 #. Sell into a bear market if it creates a tax windfall.
 #. Tax swaps can be mishandled easily.
-#. Achieving satisfactory results it is easy.
-#. Achieving superior results is hard.
+#. Your E/P ratio should be higher than the high-grade bond rate.
+#. Replace fast growers with issues that are reasonably priced.
 
 
 #. It requires more effort to keep a fortune than to make it.
@@ -269,106 +266,108 @@ On Advisors
 On Funds
 --------
 
-#. The typical money manager has no choice but to mimic the market.
-#. Investors pour more money into funds as the market rises.
-#. Investors ask for their money back when the market drops.
-#. If a company gets added to an index, hundreds of funds buy it.
+#. Size is the anchor of performance.
+#. You lose the money you pay as fees.
 #. What happens to the market, happens to the whole of large funds.
 #. A fund's success may be attributable to the market.
 #. Spectacular results may indicate undue risk.
-#. Risks can come home to roost quickly.
-#. Bright, young people have promised miracles since time immemorial.
+#. Bright, young people have always promised miracles.
 #. Smaller size is necessary for continued outstanding results.
 #. Strong funds are specialized, limited and not actively sold.
-#. If you can cash your fund shares, someone else has to sell them.
-#. Closed-end shares are obtainable at less than their asset value.
-#. You lose the money you pay as fees.
-#. Buying funds purely on past performance alone is foolish.
-#. The average fund does not pick stocks well enough to overcome costs.
-#. The higher a fund's expenses, the lower its returns.
+#. Someone has to sell the funds you cash.
+#. Closed-end shares are obtainable at less than asset value.
+#. Buying funds on past performance alone is foolish.
+#. Average fund performance rarely covers cost.
 #. Volatile funds are likely to stay volatile.
 #. Good managers migrate between funds.
 #. Fast growing funds are left with nothing to buy.
-#. Funds may bait with high returns and switch to high fees.
 #. It costs more to trade in large blocks than in small ones.
-#. Successful funds may become timid and imitative.
-#. An index will beat most funds over the long run.
-#. High returns are temporary. High fees are permanent.
+#. Indexes beat funds over the long run.
 #. Good funds are owned by their managers.
-#. Good funds are cheap and don't advertise.
 #. Good funds don't want your money.
 #. Look at a funds expenses, risk, reputation, and performance in that order.
 #. If you can't bear a funds worst performance, don't own it.
+#. Patience is the fund investor's most powerful ally.
+#. For the skilled, wide diversification is foolish.
+#. For the average, not diversifying is foolish.
+
+
 #. ETFs are often the only means to enter a narrow market.
 #. ETFs charge commission on recurring investments.
-#. Patience is the fund investor's most powerful ally.
-#. For skilled investors, wide diversification would be foolish.
-#. For the typical fund manager or investor, not diversifying is foolish.
+#. If a company gets added to an index, hundreds of funds buy it.
+#. Risks can come home to roost quickly.
+#. If you can cash your fund shares, someone else has to sell them.
+#. Funds may bait with high returns and switch to high fees.
+#. Successful funds may become timid and imitative.
+#. High returns are temporary. High fees are permanent.
 #. When big institutions sell, they move in lockstep.
 #. Mutual funds under perform by a margin equal to their expenses.
-#. Size is the anchor of performance.
 
 On Inflation
 ------------
 
-#. Measure your investment success by how much you keep after inflation.
+#. Measure success by how much you keep after inflation.
 #. Precious metals outpace inflation.
-#. Bonds guard you from principal loss and deflation.
-#. Stocks offer protection against inflation.
+#. Bonds guard from principal loss and deflation.
+#. Stocks protection against inflation.
 #. Stocks do not guard you from high inflation.
-#. Governments print more money before they pay their debts.
 #. Inflation is one of your worst enemies.
+
+
+#. Governments print more money before they pay their debts.
 
 On Defensive Investment
 -----------------------
 
-#. A defensive investor should be adequately diversified.
-#. A defensive company is large, prominent, and conservatively financed.
-#. Defensive companies are adequately sized.
-#. A defensive company has a long record of continuous dividend payments.
-#. A defensive investor limits price paid in relation to average earnings.
-#. Uniform purchases of common stock is a sound defensive strategy.
-#. The most powerful defensive position is "I don't know and I don't care".
+#. Emphasize diversification over individual selection.
+#. Defensive companies are large, prominent, and conservatively financed.
+#. Defensive investors limit price paid for average earnings.
+#. Uniform purchases of stock is a sound defensive strategy.
 #. Never buy into a lawsuit.
 #. The majority of investors should be defensive.
-#. The ideal choice for most is a total market index fund.
+#. The safest investments do not rely on prediction.
 #. Current assets should be at least twice liabilities.
 #. Long term debt should not exceed net current assets.
-#. Public utility debt should not exceed twice the stock equity.
-#. Expect earnings for the common in each of the past ten years.
-#. Expect an uninterrupted 20 year dividend record.
-#. Expect a 1/3 per-share earnings increase over ten years.
-#. A price should be less than 15 times average three year earnings.
-#. Your portfolio's E/P ratio should be higher than the high-grade bond rate.
-#. A price should be less than 1.5 times book value.
-#. Replace fast growers with issues that are reasonably priced.
-#. Emphasize diversification over individual selection.
-#. Defensive investors prosper in a bear market.
+#. Require earnings for the common in each of the past ten years.
+#. Require an uninterrupted 20 year dividend record.
+#. Require a 1/3 per-share earnings increase over ten years.
+#. Require prices less than 15 times average three year earnings.
+#. Require prices less than 1.5 times book value.
+#. Defensive investors prosper in bear markets.
 #. For most, selecting stocks is unnecessary and inadvisable.
+
+
+#. Defensive investors are adequately diversified.
+#. Defensive companies are adequately sized.
+#. The most powerful defensive position is "I don't know and I don't care".
+#. The ideal choice for most is a total market index fund.
+#. Public utility debt should not exceed twice the stock equity.
 
 On Enterprising Investment
 --------------------------
 
-#. Enterprising investors start from a defensive base.
-#. Your selections must meet rational tests of soundness.
-#. Your selections must be different from the policies of others.
+#. Enterprising strategies start from a defensive base.
+#. Selections must meet rational tests of soundness.
 #. Lawsuits can create bargains.
-#. Investment is a business to the enterprising investor.
-#. There is no middle ground between defensive and enterprising strategies.
-#. The enterprising investor should only buy bargains.
-#. A bargain is no more than two-thirds of the appraised value.
-#. The enterprising investor should not overspend.
-#. Cheap stocks should have assets at least 1.5 times liabilities.
-#. Cheap stocks should have no deficit in the last five years.
-#. Cheap stocks should be priced less than 120% of net tangible assets.
-#. Small companies may be safe if bought carefully, in groups.
+#. The enterprising should only buy bargains.
+#. There is no middle ground between the defensive and enterprising.
+#. A bargain is less than 66% of the value.
+#. Small companies may be safe if bought in groups.
 #. Smaller issues are overvalued in bull markets.
-#. Smaller issues suffer serious declines when prices collapse.
+#. Smaller issues suffer big declines.
 #. Smaller issues have delayed recoveries.
 #. The cost of trading low-priced stocks can be very high.
-#. Merger arbitrage is inappropriate for individual investors.
-#. Professional investors get interested when prices fall.
+#. Require cheap stock assets at least 1.5 times liabilities.
+#. Require no deficit on cheap stocks in the last five years.
+#. Require Cheap stock prices less than 120% of tangible assets.
+#. Merger arbitrage is inappropriate for individuals.
 #. Favor firms that limit options to roughly 3% of shares.
+
+
+#. Your selections must be different from the policies of others.
+#. Investment is a business to the enterprising investor.
+#. The enterprising investor should not overspend.
+#. Professionals get interested when prices fall.
 #. Learn from professionals that own the same stocks.
 
 On Decision Making
@@ -394,7 +393,6 @@ On Decision Making
 #. Loss is twice as memorable as gain.
 #. Do not accept promises in exchange for value.
 #. Ignore forward P/E ratios.
-#. The safest investments do not rely on future predictions.
 #. Extreme movements result from events that cannot not be foreseen.
 #. Act on reasonable conclusions from evidence, though others may differ.
 #. Losing money is an inevitable part of investing.

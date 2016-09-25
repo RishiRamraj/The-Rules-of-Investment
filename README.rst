@@ -1,5 +1,4 @@
-The Rules of Investment
-=======================
+The Rules of Investment =======================
 
 To ensure against substantial error and develop comfortable policies for the
 investor.
@@ -7,17 +6,16 @@ investor.
 In General
 ----------
 
-1. Value does not depend on price.
-#. The principles of sound investment do not change.
+1. The principles of sound investment do not change.
+#. Value does not depend on price.
 #. Never spend more for an investment than you have to.
-#. All things excellent are as difficult as they are rare.
 #. Achieving satisfactory results it is easy.
-#. Achieving spectacular results is hard.
+#. Achieving superior results is hard.
 
 On Markets
 ----------
 
-#. You cannot control the market.
+6. You cannot control the market.
 #. You can only control yourself.
 #. Sell to optimists, buy from pessimists.
 #. Predictions are already priced in.
@@ -46,34 +44,13 @@ On Markets
 #. A conversion privilege often betrays an absence of quality.
 #. Wall Street has prudent principles that are always forgotten when needed.
 #. What Wall Street gives with one hand, it takes with the other.
-#. Trees don't grow to the sky.
 #. Regulations cannot prevent investors from overdosing on greed.
 #. Most losses come from low-quality issues bought during good conditions.
-
-
-#. There are many opportunities in a crowd of fools.
-#. All gift horses are suspect to a depressed investor.
-#. Bulls end when small IPOs price higher than medium-sized companies.
-#. Market declines produce opportunities.
-#. A bull market is generous to low-priced issues.
-#. The passage of time brings new conditions.
-#. Popular theories influence the market's behaviour.
-#. No system or formula will guarantee superior market results.
-#. Bull markets have high price levels.
-#. Bull markets have high price/earnings ratios.
-#. The market often goes far wrong.
-#. In the long run, growth will slow.
-#. Prices incorporate all public information.
-#. A conversion privilege implies that measures be diluted.
-#. Bulls make money, bears make money, but pigs get slaughtered.
-#. Convertibles are often sold near the end of a bull market.
-#. Convertibles act more like stocks than bonds.
-#. Today's investor places primary emphasis upon future expectations.
 
 On Stocks
 ---------
 
-#. Only buy a stock if you do not need to know its daily price.
+37. Only buy a stock if you do not need to know its daily price.
 #. Dread bull markets that make stocks more costly to buy.
 #. Welcome a bear markets that put stocks back on sale.
 #. Preferred stocks should be bought by corporations.
@@ -116,42 +93,14 @@ On Stocks
 #. In the short run the market is a voting machine.
 #. In the long run the market is a weighing machine.
 #. Most growth stocks are overpriced.
-
-
-#. Potential growth does not translate into investment profits.
-#. Stocks offer higher average return.
-#. After a price collapse, new issues lose 75% or more of their offering price.
-#. At some point growth flattens and in many cases turns downward.
-#. The performance of a growth stock is already priced in.
-#. Growth stocks have wide price swings.
-#. Financial success means cheap debt for a company.
-#. Disappointing results or unpopularity cause undervaluation.
-#. Secondary companies have high dividend returns.
-#. A great company is not a good investment if you pay too much for it.
-#. The bigger they get, the slower they grow.
-#. Require that earnings be maintained over the years.
-#. Most companies change in character and quality over time.
-#. Form your own ideas of value based on reports from the company.
-#. If interest and dividends are not covered, preferred stock devalue.
-#. Safety resides in earning power.
-#. Long term prospects based on past performance are likely inaccurate.
 #. Forecasts must take future interest rates into account.
-#. Primary earnings often do not report special charges or dilutions.
-#. Valuations are really dependable only in exceptional cases.
-#. Averaging earnings addresses special charges.
-#. The price of a stock and its value are almost never identical.
-#. The market's judgement on price is often unreliable.
-#. Every loss is not a special charge.
-#. High valuations entail high risks.
-#. Goodwill can be priced in or acquired.
-#. Once a company becomes a giant, its growth must slow down.
-#. Exciting prospects do not necessarily make money.
-#. Coverage of interest and dividends must be tested over years.
+#. High valuations entail high risk.
+#. The bigger they get, the slower they grow.
 
 On Management
 -------------
 
-#. A good business generates more cash than it consumes.
+83. A good business generates more cash than it consumes.
 #. Good management does not win against bad business.
 #. Managerial competence is not reliably measurable.
 #. Management should be considered when it has changed.
@@ -175,14 +124,10 @@ On Management
 #. High profits attract competition.
 #. Increased sales magnify losses on unprofitable products.
 
-
-#. Avoid managers that talk more about stock price than business.
-#. Serial acquires often leave financial death in their wake.
-
 On Bonds
 --------
 
-#. The 100% maturity value of bonds moderate their prices.
+105. The 100% maturity value of bonds moderate their prices.
 #. Bonds fluctuate less than stock prices.
 #. Only own taxable bonds in a tax sheltered account.
 #. If interest rates rise, bond prices fall.
@@ -205,7 +150,7 @@ On Bonds
 On Portfolios
 -------------
 
-#. Keep no less than 25% of your assets in either stocks or bonds.
+124. Keep no less than 25% of your assets in either stocks or bonds.
 #. Never confuse speculation for investment.
 #. Aspire to adequate, not extraordinary.
 #. Increase your stock holdings in bear markets.
@@ -219,16 +164,13 @@ On Portfolios
 #. Tax swaps can be mishandled easily.
 #. Your E/P ratio should be higher than the high-grade bond rate.
 #. Replace fast growers with issues that are reasonably priced.
-
-
 #. It requires more effort to keep a fortune than to make it.
-#. Annuities let you to defer taxes and receive retirement income.
 #. Avoid fund favourites or own them more patiently.
 
 On Speculation
 --------------
 
-#. An investor values businesses. A speculator values opinions.
+140. An investor values businesses. A speculator values opinions.
 #. The more you trade, the less you keep.
 #. Investors have no interest in being temporarily right.
 #. A long term investor is the only kind of investor there is.
@@ -236,16 +178,10 @@ On Speculation
 #. Never buy after a big rise or sell after a big drop.
 #. Skepticism grows the farther you get from Wall Street.
 
-
-#. Enthusiasm in the long run is foolishness in the short run.
-#. Performance can be real, inflationary and or speculative.
-#. Speculators want to make fast money. Investors do not.
-#. Timing is of no value to the investor unless it coincides with pricing.
-
 On Advisors
 -----------
 
-#. Do not expect to be told how to make a profit.
+147. Do not expect to be told how to make a profit.
 #. Brokers cater to speculators.
 #. Free advice is seldom cheap.
 #. Read the disclosure reporting pages of an advisor's ADV.
@@ -255,20 +191,12 @@ On Advisors
 #. A good adviser will ask you questions.
 #. You hire an adviser to manage you, not your money.
 
-
-#. People want to be told by someone else what the market will do.
-#. Know your advisors well or stick to conservative advice.
-#. A bank's advise is often conservative.
-#. There are no formal requirements for being a security analyst.
-#. The value of an analyst depends on the investor's attitude.
-#. Most analysts do not analyze businesses.
-
 On Funds
 --------
 
-#. Size is the anchor of performance.
+156. Size is the anchor of performance.
 #. You lose the money you pay as fees.
-#. What happens to the market, happens to the whole of large funds.
+#. What happens to the market, happens to funds.
 #. A fund's success may be attributable to the market.
 #. Spectacular results may indicate undue risk.
 #. Bright, young people have always promised miracles.
@@ -291,35 +219,21 @@ On Funds
 #. For the skilled, wide diversification is foolish.
 #. For the average, not diversifying is foolish.
 
-
-#. ETFs are often the only means to enter a narrow market.
-#. ETFs charge commission on recurring investments.
-#. If a company gets added to an index, hundreds of funds buy it.
-#. Risks can come home to roost quickly.
-#. If you can cash your fund shares, someone else has to sell them.
-#. Funds may bait with high returns and switch to high fees.
-#. Successful funds may become timid and imitative.
-#. High returns are temporary. High fees are permanent.
-#. When big institutions sell, they move in lockstep.
-#. Mutual funds under perform by a margin equal to their expenses.
-
 On Inflation
 ------------
 
-#. Measure success by how much you keep after inflation.
+180. Measure success by how much you keep after inflation.
 #. Precious metals outpace inflation.
 #. Bonds guard from principal loss and deflation.
 #. Stocks protection against inflation.
 #. Stocks do not guard you from high inflation.
 #. Inflation is one of your worst enemies.
-
-
-#. Governments print more money before they pay their debts.
+#. Governments print money before they pay their debts.
 
 On Defensive Investment
 -----------------------
 
-#. Emphasize diversification over individual selection.
+187. Emphasize diversification over individual selection.
 #. Defensive companies are large, prominent, and conservatively financed.
 #. Defensive investors limit price paid for average earnings.
 #. Uniform purchases of stock is a sound defensive strategy.
@@ -335,22 +249,16 @@ On Defensive Investment
 #. Require prices less than 1.5 times book value.
 #. Defensive investors prosper in bear markets.
 #. For most, selecting stocks is unnecessary and inadvisable.
-
-
-#. Defensive investors are adequately diversified.
-#. Defensive companies are adequately sized.
-#. The most powerful defensive position is "I don't know and I don't care".
-#. The ideal choice for most is a total market index fund.
-#. Public utility debt should not exceed twice the stock equity.
+#. Safety resides in earning power.
+#. "I don't know and I don't care" is a powerful position.
 
 On Enterprising Investment
 --------------------------
 
-#. Enterprising strategies start from a defensive base.
+205. Enterprising strategies start from a defensive base.
 #. Selections must meet rational tests of soundness.
 #. Lawsuits can create bargains.
 #. The enterprising should only buy bargains.
-#. There is no middle ground between the defensive and enterprising.
 #. A bargain is less than 66% of the value.
 #. Small companies may be safe if bought in groups.
 #. Smaller issues are overvalued in bull markets.
@@ -362,19 +270,13 @@ On Enterprising Investment
 #. Require Cheap stock prices less than 120% of tangible assets.
 #. Merger arbitrage is inappropriate for individuals.
 #. Favor firms that limit options to roughly 3% of shares.
-
-
-#. Your selections must be different from the policies of others.
-#. Investment is a business to the enterprising investor.
-#. The enterprising investor should not overspend.
-#. Professionals get interested when prices fall.
-#. Learn from professionals that own the same stocks.
+#. Investment is a profession for the enterprising.
+#. Be enterprising or defensive. You cannot be both.
 
 On Decision Making
 ------------------
 
-#. How your investments behave is less important than how you behave.
-#. You can never eliminate is the risk of being wrong.
+212. You can never eliminate is the risk of being wrong.
 #. No one can predict the future.
 #. Study is the only defence against risk.
 #. If a formula works today, it will not work tomorrow.
@@ -404,25 +306,5 @@ On Decision Making
 #. The secret of sound investment is a large margin of safety.
 #. A margin of safety does not guarantee profit; it protects from loss.
 #. This too shall pass.
-
-
-#. Those who do not remember the past are condemned to repeat it.
-#. Excess enthusiasm invariably leads to disaster.
-#. Foresight has no value if others expect the same thing.
 #. The fool confuses effort for knowledge.
-#. If you look at data long enough, patterns will emerge.
-#. Never forecast the future by extrapolating the past.
-#. The future will always surprise you.
-#. Optimism and pessimism cause people to abandon history and principle.
-#. Risk is reduced if an excess is not paid for intrinsic worth.
-#. You and no one else, should check weather an adviser is trustworthy.
-#. Hindsight is forever 20/20, but foresight is blind.
-#. No one knows what the future will bring at home or abroad.
 #. Mathematics is prevalent where it is least reliable.
-#. Mathematicians often substitute theory for experience.
-#. Elaborate mathematics produce speculative conclusions.
-#. Those that predict the future depend on tomorrow's accuracy.
-#. Those that guard against the future depend on today's price.
-#. All estimates that differ from the past should be understated.
-#. Do not let anyone else run your business.
-#. Stay away from ventures where you have little to gain and much to lose.

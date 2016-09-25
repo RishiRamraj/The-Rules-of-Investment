@@ -423,7 +423,7 @@ Chapter 15: Stock Selection for the Enterprising Investor
 Chapter 16: Convertible Issues and Warrants
 -------------------------------------------
 
-* The addition of a conversion privilege often betrays an absence of quality.
+* A conversion privilege often betrays an absence of quality.
 * Never convert a convertible bond.
 * Wall Street has prudent principles that are always forgotten when needed.
 * What Wall Street gives with one hand, it takes with the other.

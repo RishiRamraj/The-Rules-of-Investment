@@ -47,7 +47,7 @@ On Markets
 On Stocks
 ---------
 
-31. There are no good stocks, only good prices.
+33. There are no good stocks, only good prices.
 #. The advantage of stocks are lost if you overpay.
 #. Find suitable issues by forgoing brilliant prospects.
 #. Only buy a stock if it is a cheap way to own a good business.

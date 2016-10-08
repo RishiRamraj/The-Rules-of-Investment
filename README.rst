@@ -21,7 +21,8 @@ On Markets
 #. Price adjustments always happen.
 #. Sell to optimists, buy from pessimists.
 #. Predictions are already priced in.
-#. In public, valuation is a popularity contest.
+#. In the short run the market is a voting machine.
+#. In the long run the market is a weighing machine.
 #. Enthusiasm increases risk, not growth.
 #. The longer the bull market, the stronger the amnesia.
 #. It is unrealistic to wait for a bear market before buying.
@@ -35,6 +36,7 @@ On Markets
 #. Insiders often possess only the illusion of knowledge.
 #. Well-defined and protracted market situations may return.
 #. Bull markets have low dividend yields against bond yields.
+#. Bull markets have high P/E multipliers against bond yields.
 #. Bull markets have much speculation on margin.
 #. Bull markets have many new IPOs of poor quality.
 #. Never count on being able to sell for the quoted price.
@@ -45,7 +47,7 @@ On Markets
 On Stocks
 ---------
 
-31. There are no good stocks, only good prices.
+33. There are no good stocks, only good prices.
 #. The advantage of stocks are lost if you overpay.
 #. Find suitable issues by forgoing brilliant prospects.
 #. Only buy a stock if it is a cheap way to own a good business.
@@ -62,8 +64,6 @@ On Stocks
 #. A stock can stay overvalued for a long time.
 #. Most growth stocks are overpriced.
 #. Margins on pricing errors are not wide enough for trading.
-#. In the short run the market is a voting machine.
-#. In the long run the market is a weighing machine.
 #. Be wary of new issues.
 #. Preferred stocks should be bought by corporations.
 #. Small companies risk more loss in spite of better earnings.

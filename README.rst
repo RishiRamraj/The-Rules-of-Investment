@@ -10,8 +10,8 @@ In General
 1. Value does not depend on price.
 #. The principles of sound investment do not change.
 #. Never spend more for an investment than you have to.
-#. Achieving satisfactory results it is easy.
-#. Achieving superior results is hard.
+#. Achieving satisfactory results is easier than expected.
+#. Achieving superior results is harder than assumed.
 
 On Markets
 ----------
@@ -269,7 +269,7 @@ On Decision Making
 212. The secret of sound investment is a large margin of safety.
 #. A margin of safety does not guarantee profit; it protects from loss.
 #. No one can predict the future.
-#. You can never eliminate is the risk of being wrong.
+#. You can never eliminate the risk of being wrong.
 #. You can only predict something that is predictable.
 #. Hindsight profits are missed opportunities. Ignore them.
 #. Nothing important recurs exactly.

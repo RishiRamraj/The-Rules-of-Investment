@@ -36,6 +36,7 @@ On Markets
 #. Insiders often possess only the illusion of knowledge.
 #. Well-defined and protracted market situations may return.
 #. Bull markets have low dividend yields against bond yields.
+#. Bull markets have high P/E multipliers against bond yields.
 #. Bull markets have much speculation on margin.
 #. Bull markets have many new IPOs of poor quality.
 #. Never count on being able to sell for the quoted price.

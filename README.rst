@@ -214,8 +214,8 @@ On Inflation
 169. Inflation is one of your worst enemies.
 #. Measure success by how much you keep after inflation.
 #. Precious metals outpace inflation.
-#. Stocks protection against inflation.
-#. Stocks do not guard you from high inflation.
+#. Stocks protect against inflation.
+#. Stocks do not guard against high inflation.
 #. Bonds guard from principal loss and deflation.
 #. Governments print money before they pay their debts.
 

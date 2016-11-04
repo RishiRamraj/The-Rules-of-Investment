@@ -119,7 +119,7 @@ On Management
 On Bonds
 --------
 
-97. Bonds prices fluctuate less than stock prices.
+97. Bond prices fluctuate less than stock prices.
 #. The 100% maturity value of bonds moderate their prices.
 #. Low yields for bonds correspond to high prices.
 #. High yields for bonds correspond to low prices.

@@ -10,8 +10,8 @@ In General
 1. Value does not depend on price.
 #. The principles of sound investment do not change.
 #. Never spend more for an investment than you have to.
-#. Achieving satisfactory results it is easy.
-#. Achieving superior results is hard.
+#. Achieving satisfactory results is easier than expected.
+#. Achieving superior results is harder than assumed.
 
 On Markets
 ----------
@@ -21,7 +21,8 @@ On Markets
 #. Price adjustments always happen.
 #. Sell to optimists, buy from pessimists.
 #. Predictions are already priced in.
-#. In public, valuation is a popularity contest.
+#. In the short run the market is a voting machine.
+#. In the long run the market is a weighing machine.
 #. Enthusiasm increases risk, not growth.
 #. The longer the bull market, the stronger the amnesia.
 #. It is unrealistic to wait for a bear market before buying.
@@ -35,6 +36,7 @@ On Markets
 #. Insiders often possess only the illusion of knowledge.
 #. Well-defined and protracted market situations may return.
 #. Bull markets have low dividend yields against bond yields.
+#. Bull markets have high P/E multipliers against bond yields.
 #. Bull markets have much speculation on margin.
 #. Bull markets have many new IPOs of poor quality.
 #. Never count on being able to sell for the quoted price.
@@ -45,7 +47,7 @@ On Markets
 On Stocks
 ---------
 
-31. There are no good stocks, only good prices.
+33. There are no good stocks, only good prices.
 #. The advantage of stocks are lost if you overpay.
 #. Find suitable issues by forgoing brilliant prospects.
 #. Only buy a stock if it is a cheap way to own a good business.
@@ -62,8 +64,6 @@ On Stocks
 #. A stock can stay overvalued for a long time.
 #. Most growth stocks are overpriced.
 #. Margins on pricing errors are not wide enough for trading.
-#. In the short run the market is a voting machine.
-#. In the long run the market is a weighing machine.
 #. Be wary of new issues.
 #. Preferred stocks should be bought by corporations.
 #. Small companies risk more loss in spite of better earnings.
@@ -119,7 +119,7 @@ On Management
 On Bonds
 --------
 
-97. Bonds prices fluctuate less than stock prices.
+97. Bond prices fluctuate less than stock prices.
 #. The 100% maturity value of bonds moderate their prices.
 #. Low yields for bonds correspond to high prices.
 #. High yields for bonds correspond to low prices.
@@ -214,15 +214,14 @@ On Inflation
 169. Inflation is one of your worst enemies.
 #. Measure success by how much you keep after inflation.
 #. Precious metals outpace inflation.
-#. Stocks protection against inflation.
-#. Stocks do not guard you from high inflation.
+#. Stocks protect against inflation.
+#. Stocks do not guard against high inflation.
 #. Bonds guard from principal loss and deflation.
-#. Governments print money before they pay their debts.
 
 On Defensive Investment
 -----------------------
 
-176. The safest investments do not rely on prediction.
+175. The safest investments do not rely on prediction.
 #. Emphasize diversification over individual selection.
 #. "I don't know and I don't care" is a powerful position.
 #. Safety resides in earning power.
@@ -244,7 +243,7 @@ On Defensive Investment
 On Enterprising Investment
 --------------------------
 
-194. Enterprising strategies start from a defensive base.
+193. Enterprising strategies start from a defensive base.
 #. Selections must meet rational tests of soundness.
 #. The enterprising should only buy bargains.
 #. Investment is a profession for the enterprising.
@@ -266,10 +265,10 @@ On Enterprising Investment
 On Decision Making
 ------------------
 
-212. The secret of sound investment is a large margin of safety.
+211. The secret of sound investment is a large margin of safety.
 #. A margin of safety does not guarantee profit; it protects from loss.
 #. No one can predict the future.
-#. You can never eliminate is the risk of being wrong.
+#. You can never eliminate the risk of being wrong.
 #. You can only predict something that is predictable.
 #. Hindsight profits are missed opportunities. Ignore them.
 #. Nothing important recurs exactly.

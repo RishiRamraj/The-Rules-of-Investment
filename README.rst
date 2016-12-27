@@ -217,7 +217,6 @@ On Inflation
 #. Stocks protect against inflation.
 #. Stocks do not guard against high inflation.
 #. Bonds guard from principal loss and deflation.
-#. Governments print money before they pay their debts.
 
 On Defensive Investment
 -----------------------

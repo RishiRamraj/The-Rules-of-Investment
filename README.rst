@@ -217,12 +217,11 @@ On Inflation
 #. Stocks protect against inflation.
 #. Stocks do not guard against high inflation.
 #. Bonds guard from principal loss and deflation.
-#. Governments print money before they pay their debts.
 
 On Defensive Investment
 -----------------------
 
-176. The safest investments do not rely on prediction.
+175. The safest investments do not rely on prediction.
 #. Emphasize diversification over individual selection.
 #. "I don't know and I don't care" is a powerful position.
 #. Safety resides in earning power.
@@ -244,7 +243,7 @@ On Defensive Investment
 On Enterprising Investment
 --------------------------
 
-194. Enterprising strategies start from a defensive base.
+193. Enterprising strategies start from a defensive base.
 #. Selections must meet rational tests of soundness.
 #. The enterprising should only buy bargains.
 #. Investment is a profession for the enterprising.
@@ -266,7 +265,7 @@ On Enterprising Investment
 On Decision Making
 ------------------
 
-212. The secret of sound investment is a large margin of safety.
+211. The secret of sound investment is a large margin of safety.
 #. A margin of safety does not guarantee profit; it protects from loss.
 #. No one can predict the future.
 #. You can never eliminate the risk of being wrong.
